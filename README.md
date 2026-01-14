@@ -95,7 +95,7 @@ AUC scores for perturbations tests on METER: Lower AUC for positive tests and hi
 - Implementation of METER is based on [METER](https://github.com/zdou0830/METER)
 
 ## Cite Us
-```
+```bibtex
 @InProceedings{10.1007/978-3-031-78395-1_9,
 author="Ambati, Shivanvitha
 and Padmanabhan, Vineet
